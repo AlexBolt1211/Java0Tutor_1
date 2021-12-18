@@ -1,12 +1,11 @@
-package by.traning.tutor.strings;
+package by.traning.tutor.algorithmization;
+
 import java.util.Random;
 
-
-public class StringsRun1 {
-
+//В массив A [N] занесены натуральные числа. Найти сумму тех элементов, которые кратны данному К
+public class Task1 {
     public static void main(String[] args) {
 
-        //1. В массив A [N] занесены натуральные числа. Найти сумму тех элементов, которые кратны данному К.");
         Random random = new Random();
         int k = 2;
         int[] a = new int[3];
@@ -21,5 +20,6 @@ public class StringsRun1 {
             }
         }
         System.out.println("Сумма элементов, которые кратны " + k + ", равна " + sum);
+
     }
 }
