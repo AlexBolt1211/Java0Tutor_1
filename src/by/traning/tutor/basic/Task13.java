@@ -2,7 +2,7 @@ package by.traning.tutor.basic;
 
 import java.util.Scanner;
 
-public class BasicRun11 {
+public class Task13 {
 
     //Напишите программу, где пользователь вводит любое целое положительное число. А программа суммирует
     //все числа от 1 до введенного пользователем числа.

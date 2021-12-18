@@ -1,8 +1,7 @@
 package by.traning.tutor.basic;
 
-public class BasicRun13 {
-
 //    Найти сумму квадратов первых ста чисел.
+public class Task15 {
 
     public static void main(String[] args) {
 

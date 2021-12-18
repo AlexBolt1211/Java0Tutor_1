@@ -1,9 +1,10 @@
 package by.traning.tutor.basic;
 
-public class BasicRun1 {
+//(b+√(𝑏^2 + 4𝑎𝑐))/2𝑎 − (𝑎^3)*𝑐 + (𝑏^−2).
+public class Task2 {
+
     public static void main(String[] args) {
 
-//(b+√(𝑏^2 + 4𝑎𝑐))/2𝑎 − (𝑎^3)*𝑐 + (𝑏^−2).
         int a = 1;
         int b = 7;
         int c = 3;

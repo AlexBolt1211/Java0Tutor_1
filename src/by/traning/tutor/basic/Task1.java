@@ -1,9 +1,7 @@
 package by.traning.tutor.basic;
 
-public class  BasicRun {
+public class Task1 {
     // z = ( (a – 3 ) * b / 2) + c.
-
-
     public static void main(String[] args) {
 
         Integer a = Integer.parseInt(args[0]);

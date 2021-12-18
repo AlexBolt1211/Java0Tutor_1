@@ -1,8 +1,7 @@
 package by.traning.tutor.basic;
 
-public class BasicRan7 {
-
-//    Найти max{min(a, b), min(c, d)}.
+//Найти max{min(a, b), min(c, d)}.
+public class Task9 {
 
     public static void main(String[] args) {
         int a = 0;

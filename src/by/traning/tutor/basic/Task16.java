@@ -1,12 +1,7 @@
 package by.traning.tutor.basic;
 
-import java.util.stream.IntStream;
-
-import static java.lang.Math.pow;
-
-public class BasicRan14 {
-
 //    Составить программу нахождения произведения квадратов первых двухсот чисел.
+public class Task16 {
 
     public static void main(String[] args) {
 

@@ -4,7 +4,10 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BasicRun5 {
+//Для данной области составить линейную программу, которая печатает true, если точка с координатами (х, у)
+//принадлежит закрашенной области, и false — в противном случае:
+public class Task7 {
+
     public static void main(String[] args) {
 
         System.out.println("Введите x ");
@@ -18,7 +21,7 @@ public class BasicRun5 {
         else{
             System.out.print("False: ");
         }
-        //System.out.println("Точка с координатами (" + x + ", " + y + ") принадлежит закрашенной области");
+        System.out.println("Точка с координатами (" + x + ", " + y + ") принадлежит закрашенной области");
 
     }
 

@@ -1,9 +1,8 @@
 package by.traning.tutor.basic;
 
+// Вычислить значения функции на отрезке [а,b] c шагом h:
+public class Task14 {
 
-public class BasicRun12 {
-
-    // Вычислить значения функции на отрезке [а,b] c шагом h:
     public static void main(String[] args) {
 
         int a = 1;
